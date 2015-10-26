@@ -1,0 +1,10 @@
+<map id="tell::db::Exception" name="tell::db::Exception">
+<area shape="rect" id="node3" href="$classtell_1_1db_1_1_conflicts.html" title="tell::db::Conflicts" alt="" coords="385,31,512,57"/>
+<area shape="rect" id="node4" href="$classtell_1_1db_1_1_key_exception.html" title="tell::db::KeyException" alt="" coords="370,81,527,108"/>
+<area shape="rect" id="node9" href="$classtell_1_1db_1_1_open_table_exception.html" title="tell::db::OpenTableException" alt="" coords="348,132,549,159"/>
+<area shape="rect" id="node10" href="$classtell_1_1db_1_1_unique_violation.html" title="tell::db::UniqueViolation" alt="" coords="362,183,535,209"/>
+<area shape="rect" id="node5" href="$classtell_1_1db_1_1_conflict.html" title="tell::db::Conflict" alt="" coords="639,5,759,32"/>
+<area shape="rect" id="node6" href="$classtell_1_1db_1_1_index_conflict.html" title="tell::db::IndexConflict" alt="" coords="622,56,777,83"/>
+<area shape="rect" id="node7" href="$classtell_1_1db_1_1_tuple_does_not_exist.html" title="tell::db::TupleDoesNotExist" alt="" coords="604,107,795,133"/>
+<area shape="rect" id="node8" href="$classtell_1_1db_1_1_tuple_exists_exception.html" title="tell::db::TupleExistsException" alt="" coords="597,157,801,184"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$classtell_1_1db_1_1_exception.html" title="tell::db::Exception" alt="" coords="137,107,272,133"/>
+<area shape="rect" id="node3" href="$classtell_1_1db_1_1_conflicts.html" title="tell::db::Conflicts" alt="" coords="357,31,484,57"/>
+<area shape="rect" id="node4" href="$classtell_1_1db_1_1_key_exception.html" title="tell::db::KeyException" alt="" coords="342,81,499,108"/>
+<area shape="rect" id="node9" href="$classtell_1_1db_1_1_open_table_exception.html" title="tell::db::OpenTableException" alt="" coords="320,132,521,159"/>
+<area shape="rect" id="node10" href="$classtell_1_1db_1_1_unique_violation.html" title="tell::db::UniqueViolation" alt="" coords="334,183,507,209"/>
+<area shape="rect" id="node5" href="$classtell_1_1db_1_1_conflict.html" title="tell::db::Conflict" alt="" coords="611,5,731,32"/>
+<area shape="rect" id="node6" href="$classtell_1_1db_1_1_index_conflict.html" title="tell::db::IndexConflict" alt="" coords="594,56,749,83"/>
+<area shape="rect" id="node7" href="$classtell_1_1db_1_1_tuple_does_not_exist.html" title="tell::db::TupleDoesNotExist" alt="" coords="576,107,767,133"/>
+<area shape="rect" id="node8" href="$classtell_1_1db_1_1_tuple_exists_exception.html" title="tell::db::TupleExistsException" alt="" coords="569,157,773,184"/>
+</map>

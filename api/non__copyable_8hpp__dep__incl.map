@@ -1,0 +1,11 @@
+<map id="/home/mpilman/eth/tell/crossbow/crossbow/non_copyable.hpp" name="/home/mpilman/eth/tell/crossbow/crossbow/non_copyable.hpp">
+<area shape="rect" id="node2" href="$fixed__size__stack_8hpp.html" title="/home/mpilman/eth/tell\l/crossbow/crossbow/fixed\l_size_stack.hpp" alt="" coords="5,117,188,173"/>
+<area shape="rect" id="node3" href="$_batching_message_socket_8hpp.html" title="/home/mpilman/eth/tell\l/crossbow/libs/infinio\l/include/crossbow/infinio\l/BatchingMessageSocket.hpp" alt="" coords="561,465,771,536"/>
+<area shape="rect" id="node6" href="$_event_processor_8hpp.html" title="/home/mpilman/eth/tell\l/crossbow/libs/infinio\l/include/crossbow/infinio\l/EventProcessor.hpp" alt="" coords="264,228,439,299"/>
+<area shape="rect" id="node7" href="$_infiniband_service_8hpp.html" title="/home/mpilman/eth/tell\l/crossbow/libs/infinio\l/include/crossbow/infinio\l/InfinibandService.hpp" alt="" coords="412,347,587,417"/>
+<area shape="rect" id="node8" href="$_fiber_8hpp.html" title="/home/mpilman/eth/tell\l/crossbow/libs/infinio\l/include/crossbow/infinio\l/Fiber.hpp" alt="" coords="764,228,939,299"/>
+<area shape="rect" id="node9" href="$_infiniband_buffer_8hpp.html" title="/home/mpilman/eth/tell\l/crossbow/libs/infinio\l/include/crossbow/infinio\l/InfinibandBuffer.hpp" alt="" coords="463,109,637,180"/>
+<area shape="rect" id="node4" href="$_rpc_client_8hpp.html" title="/home/mpilman/eth/tell\l/crossbow/libs/infinio\l/include/crossbow/infinio\l/RpcClient.hpp" alt="" coords="720,584,895,655"/>
+<area shape="rect" id="node5" href="$_rpc_server_8hpp.html" title="/home/mpilman/eth/tell\l/crossbow/libs/infinio\l/include/crossbow/infinio\l/RpcServer.hpp" alt="" coords="488,584,663,655"/>
+<area shape="rect" id="node10" href="$_infiniband_socket_8hpp.html" title="/home/mpilman/eth/tell\l/crossbow/libs/infinio\l/include/crossbow/infinio\l/InfinibandSocket.hpp" alt="" coords="463,228,637,299"/>
+</map>

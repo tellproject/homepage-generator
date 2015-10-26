@@ -1,0 +1,4 @@
+<map id="tell::db::TupleDoesNotExist" name="tell::db::TupleDoesNotExist">
+<area shape="rect" id="node2" href="$classtell_1_1db_1_1_key_exception.html" title="tell::db::KeyException" alt="" coords="22,155,179,181"/>
+<area shape="rect" id="node3" href="$classtell_1_1db_1_1_exception.html" title="tell::db::Exception" alt="" coords="33,80,168,107"/>
+</map>

@@ -1,0 +1,5 @@
+var structcrossbow_1_1deserialize__policy_3_01_archiver_00_01std_1_1unordered__map_3_01_key_00_01_va33c1c2e5af762bcc772f6d4ce8735212 =
+[
+    [ "type", "structcrossbow_1_1deserialize__policy_3_01_archiver_00_01std_1_1unordered__map_3_01_key_00_01_va33c1c2e5af762bcc772f6d4ce8735212.html#a90b1692471ceee6a0664cb213ce8a291", null ],
+    [ "operator()", "structcrossbow_1_1deserialize__policy_3_01_archiver_00_01std_1_1unordered__map_3_01_key_00_01_va33c1c2e5af762bcc772f6d4ce8735212.html#a21ed5f60ec844fd901eeb251b072956f", null ]
+];

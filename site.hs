@@ -30,7 +30,14 @@ main = hakyll $ do
         compile $ pandocCompiler
             >>= loadAndApplyTemplate "templates/post.html"    postCtx
             >>= loadAndApplyTemplate "templates/default.html" postCtx
-            >>= relativizeUrls
+
+    match "api/*" $ do
+        route idRoute
+        compile copyFileCompiler
+
+    match "api/search/*" $ do
+        route idRoute
+        compile copyFileCompiler
 
     match "sites/*" $ do
         route $ setExtension "html"
@@ -77,6 +84,7 @@ main = hakyll $ do
 
 
 --------------------------------------------------------------------------------
+
 context :: Context String
 context =
     listField "sites" postCtx (loadAll "sites/*") `mappend`

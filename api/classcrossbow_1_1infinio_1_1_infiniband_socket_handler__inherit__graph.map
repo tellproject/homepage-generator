@@ -1,0 +1,7 @@
+<map id="crossbow::infinio::InfinibandSocketHandler" name="crossbow::infinio::InfinibandSocketHandler">
+<area shape="rect" id="node2" href="$classcrossbow_1_1infinio_1_1_batching_message_socket.html" title="crossbow::infinio::\lBatchingMessageSocket\l\&lt; RpcClientSocket \&gt;" alt="" coords="252,5,431,61"/>
+<area shape="rect" id="node4" href="$classcrossbow_1_1infinio_1_1_batching_message_socket.html" title="crossbow::infinio::\lBatchingMessageSocket\l\&lt; RpcServerSocket\&lt; Manager,\l Socket \&gt; \&gt;" alt="" coords="231,86,452,157"/>
+<area shape="rect" id="node6" href="$classcrossbow_1_1infinio_1_1_batching_message_socket.html" title="Socket wrapper for sending and receiving messages. " alt="" coords="252,181,431,237"/>
+<area shape="rect" id="node3" href="$classcrossbow_1_1infinio_1_1_rpc_client_socket.html" title="Socket base class implementing client side basic remote procedure calls functionality. " alt="" coords="537,13,670,54"/>
+<area shape="rect" id="node5" href="$classcrossbow_1_1infinio_1_1_rpc_server_socket.html" title="Socket base class implementing server side basic remote procedure calls functionality. " alt="" coords="500,93,707,149"/>
+</map>

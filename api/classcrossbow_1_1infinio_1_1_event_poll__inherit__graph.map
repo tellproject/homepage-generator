@@ -1,0 +1,6 @@
+<map id="crossbow::infinio::EventPoll" name="crossbow::infinio::EventPoll">
+<area shape="rect" id="node4" href="$classcrossbow_1_1infinio_1_1_local_task_queue.html" title="Event Poller polling a task queue and executing tasks from it. " alt="" coords="48,169,181,211"/>
+<area shape="rect" id="node5" href="$classcrossbow_1_1infinio_1_1_task_queue.html" title="Event Poller polling a task queue and executing tasks from it. " alt="" coords="205,169,339,211"/>
+<area shape="rect" id="node2" href="$classcrossbow_1_1non__copyable.html" title="Dummy interface to delete all copy constructor and assignment functions. " alt="" coords="5,5,181,32"/>
+<area shape="rect" id="node3" href="$classcrossbow_1_1non__movable.html" title="Dummy interface to delete all move constructor and assignment functions. " alt="" coords="206,5,381,32"/>
+</map>

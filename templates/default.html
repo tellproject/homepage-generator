@@ -15,17 +15,20 @@
         <div class="header">
             <div class="home-menu pure-menu pure-menu-horizontal pure-menu-fixed">
                 <ul id="menu" class="pure-menu-list">
-                    $if(isLanding)$
                     <script>
+$if(menu)$
+$if(isLanding)$
 var isLanding = true;
 var menu = '$menu$';
-                    </script>
-                    $else$
-                    <script>
+$else$
 var isLanding = false;
 var menu = '$menu$';
+$endif$
+$else$
+var isLanding = false;
+var menu = 'doc';
+$endif$
                     </script>
-                    $endif$
                 </ul>
                 <a class="pure-menu-heading"><img class="img-header" src="/images/tell-black.png"/></a>
             </div>

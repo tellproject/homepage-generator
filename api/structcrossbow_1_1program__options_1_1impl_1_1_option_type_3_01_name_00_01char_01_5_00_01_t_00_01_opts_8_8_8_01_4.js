@@ -1,0 +1,4 @@
+var structcrossbow_1_1program__options_1_1impl_1_1_option_type_3_01_name_00_01char_01_5_00_01_t_00_01_opts_8_8_8_01_4 =
+[
+    [ "type", "structcrossbow_1_1program__options_1_1impl_1_1_option_type_3_01_name_00_01char_01_5_00_01_t_00_01_opts_8_8_8_01_4.html#a251e4cdb551c26073de68e8012b7fff7", null ]
+];

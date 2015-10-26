@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classcrossbow_1_1infinio_1_1_rpc_response.html" title="Base class representing a pending RPC response. " alt="" coords="5,53,139,94"/>
+<area shape="rect" id="node2" href="$classcrossbow_1_1infinio_1_1_rpc_response_result.html" title="Class holding a future RPC response. " alt="" coords="187,5,400,61"/>
+<area shape="rect" id="node3" href="$classcrossbow_1_1infinio_1_1_rpc_response_result_3_01_handler_00_01void_01_4.html" title="Class holding a future RPC response. " alt="" coords="187,85,400,141"/>
+</map>

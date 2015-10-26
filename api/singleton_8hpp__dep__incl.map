@@ -1,0 +1,7 @@
+<map id="/home/mpilman/eth/tell/crossbow/crossbow/singleton.hpp" name="/home/mpilman/eth/tell/crossbow/crossbow/singleton.hpp">
+<area shape="rect" id="node2" href="$logger_8hpp.html" title="/home/mpilman/eth/tell\l/crossbow/libs/logger\l/include/crossbow/logger.hpp" alt="" coords="111,95,317,151"/>
+<area shape="rect" id="node6" href="$_tell_d_b_8hpp.html" title="/home/mpilman/eth/tell\l/telldb/telldb/TellDB.hpp" alt="" coords="341,102,511,143"/>
+<area shape="rect" id="node3" href="$_batching_message_socket_8hpp.html" title="/home/mpilman/eth/tell\l/crossbow/libs/infinio\l/include/crossbow/infinio\l/BatchingMessageSocket.hpp" alt="" coords="109,199,319,269"/>
+<area shape="rect" id="node4" href="$_rpc_client_8hpp.html" title="/home/mpilman/eth/tell\l/crossbow/libs/infinio\l/include/crossbow/infinio\l/RpcClient.hpp" alt="" coords="5,317,180,388"/>
+<area shape="rect" id="node5" href="$_rpc_server_8hpp.html" title="/home/mpilman/eth/tell\l/crossbow/libs/infinio\l/include/crossbow/infinio\l/RpcServer.hpp" alt="" coords="247,317,421,388"/>
+</map>

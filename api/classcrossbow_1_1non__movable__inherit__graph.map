@@ -1,0 +1,15 @@
+<map id="crossbow::non_movable" name="crossbow::non_movable">
+<area shape="rect" id="node2" href="$classcrossbow_1_1infinio_1_1_batching_message_socket.html" title="crossbow::infinio::\lBatchingMessageSocket\l\&lt; RpcClientSocket \&gt;" alt="" coords="249,5,428,61"/>
+<area shape="rect" id="node4" href="$classcrossbow_1_1infinio_1_1_batching_message_socket.html" title="crossbow::infinio::\lBatchingMessageSocket\l\&lt; RpcServerSocket\&lt; Manager,\l Socket \&gt; \&gt;" alt="" coords="228,86,449,157"/>
+<area shape="rect" id="node6" href="$classcrossbow_1_1fixed__size__stack.html" title="crossbow::fixed_size\l_stack\&lt; T \&gt;" alt="" coords="263,181,414,222"/>
+<area shape="rect" id="node7" href="$classcrossbow_1_1infinio_1_1_batching_message_socket.html" title="Socket wrapper for sending and receiving messages. " alt="" coords="249,245,428,301"/>
+<area shape="rect" id="node8" href="$classcrossbow_1_1infinio_1_1_event_poll.html" title="Interface providing an event poller invoked by the EventProcessor. " alt="" coords="272,325,405,366"/>
+<area shape="rect" id="node11" href="$classcrossbow_1_1infinio_1_1_event_processor.html" title="Class providing a simple poll based event loop. " alt="" coords="272,390,405,431"/>
+<area shape="rect" id="node12" href="$classcrossbow_1_1infinio_1_1_fiber.html" title="crossbow::infinio::\lFiber" alt="" coords="272,455,405,497"/>
+<area shape="rect" id="node13" href="$classcrossbow_1_1infinio_1_1_infiniband_processor.html" title="crossbow::infinio::\lInfinibandProcessor" alt="" coords="265,521,412,562"/>
+<area shape="rect" id="node14" href="$classcrossbow_1_1infinio_1_1_infiniband_service.html" title="Class handling all Infiniband related management tasks. " alt="" coords="272,586,405,627"/>
+<area shape="rect" id="node3" href="$classcrossbow_1_1infinio_1_1_rpc_client_socket.html" title="Socket base class implementing client side basic remote procedure calls functionality. " alt="" coords="534,13,667,54"/>
+<area shape="rect" id="node5" href="$classcrossbow_1_1infinio_1_1_rpc_server_socket.html" title="Socket base class implementing server side basic remote procedure calls functionality. " alt="" coords="497,93,704,149"/>
+<area shape="rect" id="node9" href="$classcrossbow_1_1infinio_1_1_local_task_queue.html" title="Event Poller polling a task queue and executing tasks from it. " alt="" coords="534,293,667,334"/>
+<area shape="rect" id="node10" href="$classcrossbow_1_1infinio_1_1_task_queue.html" title="Event Poller polling a task queue and executing tasks from it. " alt="" coords="534,358,667,399"/>
+</map>

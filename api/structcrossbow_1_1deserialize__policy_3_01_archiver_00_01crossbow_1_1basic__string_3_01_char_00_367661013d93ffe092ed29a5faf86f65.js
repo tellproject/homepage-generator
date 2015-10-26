@@ -1,0 +1,5 @@
+var structcrossbow_1_1deserialize__policy_3_01_archiver_00_01crossbow_1_1basic__string_3_01_char_00_367661013d93ffe092ed29a5faf86f65 =
+[
+    [ "type", "structcrossbow_1_1deserialize__policy_3_01_archiver_00_01crossbow_1_1basic__string_3_01_char_00_367661013d93ffe092ed29a5faf86f65.html#a4a9c300990f67489266a87d74f5130ae", null ],
+    [ "operator()", "structcrossbow_1_1deserialize__policy_3_01_archiver_00_01crossbow_1_1basic__string_3_01_char_00_367661013d93ffe092ed29a5faf86f65.html#a4ee395aa0064ec5a4ab7c7660f27e64a", null ]
+];
