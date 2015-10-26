@@ -26,8 +26,8 @@ h1 {
 }
 
 .pure-img-responsive {
-    max-width: 100%;
-    height: auto;
+    max-height: 100%;
+    width: auto;
 }
 
 /*
@@ -47,6 +47,9 @@ h1 {
     text-align: center;
 }
 
+.footer a {
+    color: white;
+}
 
 
 /*
@@ -232,11 +235,6 @@ iframe {
 .ribbon {
     background: #9f2720;
     color: #aaa;
-}
-
-/* This is the class used for the footer */
-.footer {
-    background: #111;
 }
 
 /*
